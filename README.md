@@ -18,7 +18,7 @@ Simple LAN messenger built with Qt and C++.
 ## Clone Repository
 
 ```bash
-git clone YOUR_REPO_URL
+git clone https://github.com/saducci/Lanchat/
 cd LHmsg
 ```
 
